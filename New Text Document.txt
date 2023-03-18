@@ -1,0 +1,5 @@
+npx create-react-app react-blog-app\\
+
+npm install react-router-dom
+npm install redux react-redux
+
